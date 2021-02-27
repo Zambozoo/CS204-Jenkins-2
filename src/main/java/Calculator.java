@@ -1,7 +1,6 @@
 import java.util.Random;
 
 class Calculator {
-    This will break everything
     Calculator(){
 
     }
